@@ -1,6 +1,6 @@
 # libft
 
-This is a basic string conversion library, it was our first project of the codam curriculum and a good introduction into C and basic programming
+This is a basic string conversion library, it was my first project of the codam curriculum and a good introduction into C and basic programming
 
 ## Project description
 
